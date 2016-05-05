@@ -1,0 +1,47 @@
+
+obstacles.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+black
+  rotate: false
+  xy: 1, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+blank
+  rotate: false
+  xy: 67, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+cactus
+  rotate: false
+  xy: 133, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+cowskull
+  rotate: false
+  xy: 199, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+grid
+  rotate: false
+  xy: 265, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+rock
+  rotate: false
+  xy: 331, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1

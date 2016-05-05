@@ -1,0 +1,26 @@
+
+powerups.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+crown
+  rotate: false
+  xy: 1, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+gem
+  rotate: false
+  xy: 67, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+skates
+  rotate: false
+  xy: 133, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1

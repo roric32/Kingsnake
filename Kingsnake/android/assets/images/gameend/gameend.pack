@@ -1,0 +1,33 @@
+
+gameend.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blackbox
+  rotate: false
+  xy: 1, 346
+  size: 600, 113
+  orig: 600, 113
+  offset: 0, 0
+  index: -1
+orangebox
+  rotate: false
+  xy: 1, 231
+  size: 600, 113
+  orig: 600, 113
+  offset: 0, 0
+  index: -1
+redbox
+  rotate: false
+  xy: 1, 116
+  size: 600, 113
+  orig: 600, 113
+  offset: 0, 0
+  index: -1
+yellowbox
+  rotate: false
+  xy: 1, 1
+  size: 600, 113
+  orig: 600, 113
+  offset: 0, 0
+  index: -1

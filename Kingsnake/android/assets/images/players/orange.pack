@@ -1,0 +1,159 @@
+
+orange.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+down
+  rotate: false
+  xy: 1, 51
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+downleft
+  rotate: false
+  xy: 1, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+downright
+  rotate: false
+  xy: 67, 51
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+explosion
+  rotate: false
+  xy: 67, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+horizontal
+  rotate: false
+  xy: 133, 51
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+kdown
+  rotate: false
+  xy: 133, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+kdownleft
+  rotate: false
+  xy: 199, 51
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+kdownright
+  rotate: false
+  xy: 199, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+kexplosion
+  rotate: false
+  xy: 265, 51
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+khorizontal
+  rotate: false
+  xy: 265, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+kleft
+  rotate: false
+  xy: 331, 51
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+kright
+  rotate: false
+  xy: 331, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+kup
+  rotate: false
+  xy: 397, 51
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+kupleft
+  rotate: false
+  xy: 397, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+kupright
+  rotate: false
+  xy: 463, 51
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+kvertical
+  rotate: false
+  xy: 463, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 529, 51
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 529, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 595, 51
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+upleft
+  rotate: false
+  xy: 595, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+upright
+  rotate: false
+  xy: 661, 51
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+vertical
+  rotate: false
+  xy: 661, 1
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
